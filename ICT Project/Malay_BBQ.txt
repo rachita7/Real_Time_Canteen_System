@@ -1,0 +1,20 @@
+mon08301930/070810121400/070810121416/091011161700
+tue08301630/070910111214/080910111318/000000000000
+wed08301930/070910120000/080910121315/070810121516
+thu00000000
+fri08301930/070911121314/070810111415/091011121418
+sat08301230/071011121700/000000000000/000000000000
+sun00000000
+BBQ Chicken			: $4.00
+Fish Fillet			: $4.00
+Combo Meal (Chicken+Fish)	: $5.20
+Ayam Penyet			: $4.00
+Ayam Penyet Fried Rice		: $4.20
+Fried Chicken White Rice	: $3.80
+Nasi Padang (Chicken)		: $2.80
+Beef Rendang			: $2.50
+Nasi Ayam (Steamed / Roasted)	: $3.80
+Mee Rebus			: $2.80
+Mee Siam			: $2.80
+Lontong				: $2.80
+02
